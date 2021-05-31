@@ -1,0 +1,14 @@
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/repository/BoardRepository.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/config/SwaggerConfig.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/service/impl/BoardsServiceImpl.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/dtos/BoardDTO.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/controller/BoardsController.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/dtos/CredentialDTO.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/entities/PinsReqEntity.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/mapper/MapperUtils.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/dtos/PinsReqDTO.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/service/BoardService.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/config/CustomConfig.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/repository/PinsReqRepository.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/entities/BoardEntity.java
+/Users/marceloleitonvaldes/Documents/Copinterest/ms-boards/src/main/java/cl/uv/ici/arq/labs/boards/BoardsApplication.java

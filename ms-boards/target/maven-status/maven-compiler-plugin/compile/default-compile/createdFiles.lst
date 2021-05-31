@@ -1,0 +1,15 @@
+cl/uv/ici/arq/labs/boards/entities/PinsReqEntity.class
+cl/uv/ici/arq/labs/boards/service/BoardService.class
+cl/uv/ici/arq/labs/boards/config/SwaggerConfig.class
+cl/uv/ici/arq/labs/boards/BoardsApplication.class
+cl/uv/ici/arq/labs/boards/dtos/CredentialDTO.class
+cl/uv/ici/arq/labs/boards/mapper/MapperUtils.class
+cl/uv/ici/arq/labs/boards/repository/BoardRepository.class
+cl/uv/ici/arq/labs/boards/service/impl/BoardsServiceImpl$1.class
+cl/uv/ici/arq/labs/boards/service/impl/BoardsServiceImpl.class
+cl/uv/ici/arq/labs/boards/dtos/PinsReqDTO.class
+cl/uv/ici/arq/labs/boards/controller/BoardsController.class
+cl/uv/ici/arq/labs/boards/repository/PinsReqRepository.class
+cl/uv/ici/arq/labs/boards/config/CustomConfig.class
+cl/uv/ici/arq/labs/boards/dtos/BoardDTO.class
+cl/uv/ici/arq/labs/boards/entities/BoardEntity.class

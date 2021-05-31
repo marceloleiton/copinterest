@@ -1,0 +1,12 @@
+cl/uv/ici/arq/labs/pins/entities/PinsEntity.class
+cl/uv/ici/arq/labs/pins/config/SwaggerConfig.class
+cl/uv/ici/arq/labs/pins/PinsApplication.class
+cl/uv/ici/arq/labs/pins/dtos/PinsDTO.class
+cl/uv/ici/arq/labs/pins/service/impl/PinsServiceImpl$1.class
+cl/uv/ici/arq/labs/pins/service/PinsService.class
+cl/uv/ici/arq/labs/pins/mapper/MapperUtils.class
+cl/uv/ici/arq/labs/pins/config/CustomConfig.class
+cl/uv/ici/arq/labs/pins/service/impl/PinsServiceImpl.class
+cl/uv/ici/arq/labs/pins/repository/PinsRepository.class
+cl/uv/ici/arq/labs/pins/dtos/CredentialDTO.class
+cl/uv/ici/arq/labs/pins/controller/PinsController.class
